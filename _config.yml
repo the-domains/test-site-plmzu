@@ -6,9 +6,9 @@ color:
   saturation: 0.7305431105196476
   rhythmicContrast: 0.5864523747004569
   brandColors:
-    - '#A7304F'
-    - '#F46D8D'
-    - '#F39EB5'
-    - '#081028'
-    - '#F0CEB7'
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
 name: Test site
