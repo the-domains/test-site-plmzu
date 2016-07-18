@@ -1,4 +1,3 @@
-layout_spectrum: 0.7832875612657517
 typography_spectrum: 0.5414239570964128
 color:
   brandStrength: 0.8802255401387811
@@ -11,6 +10,12 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+layout_spectrum: 0.7832875612657517
 name: The Baltasar
+navigation:
+  - id: bbf005e6-9857-4bb2-8795-ddf87b1df223
+    url: 2016-07-18-screenshots.html
+    name: Screenshots
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/e2054c61-8da9-474d-9c59-4ec230a80bce.jpg
